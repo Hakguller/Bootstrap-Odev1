@@ -1,0 +1,41 @@
+body {
+    background-color: #E9ECEF;
+}
+
+a{
+    text-decoration: none;
+    color: #E9ECEF;
+}
+
+.nav-content{
+    background-color: rgba(35, 35, 49, 0.8);
+}
+
+.welcome{
+    color: red;
+}
+
+.logo a{
+    font-size: large;
+    color: red;
+}
+
+.second-text-title{
+    color: rgba(160, 128, 39, 0.9);
+}
+
+.content-title{
+    text-align: center;
+    color: red;
+    top:5%;
+}
+
+.card-image
+{
+    width: 350px;
+    height: 475px;
+}
+
+.card-content{
+    max-width: min-content;
+}
